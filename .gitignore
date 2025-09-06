@@ -1,3 +1,4 @@
+
 __pycache__/
 *.pyc
 *.pyo
@@ -7,3 +8,7 @@ __pycache__/
 .env.*
 *.sqlite
 .DS_Store
+.vscode/
+.streamlit/secrets.toml
+vector_index.faiss
+doc_mapping.pkl
