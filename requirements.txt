@@ -4,3 +4,6 @@ faiss-cpu
 sentence-transformers
 langchain
 langchain-community
+chromadb
+google-generativeai
+python-dotenv

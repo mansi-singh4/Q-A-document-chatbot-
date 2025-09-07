@@ -1,9 +1,9 @@
 # Document Q&A (RAG)
 
-This project is a Retrieval-Augmented Generation (RAG) app that lets you upload PDFs ,Wikipedia pages and notion pages and ask natural language questions. It retrieves relevant chunks and generates contextual answers.
+This project is a Retrieval-Augmented Generation (RAG) app that lets you upload PDFs and Wikipedia pages and ask natural language questions. It retrieves relevant chunks and generates contextual answers.
 
 # Features
-- Upload PDF ,Wikipedia pages or notion pages and extract text
+- Upload PDF or Wikipedia pages and extract text
 - Chunking + embeddings
 - FAISS vector database
 - Streamlit frontend
@@ -11,6 +11,6 @@ This project is a Retrieval-Augmented Generation (RAG) app that lets you upload 
 
 # Setup
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/mansi-singh4/Q-A-document-chatbot->
 cd rag-qna-app
 pip install -r requirements.txt
